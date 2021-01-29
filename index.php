@@ -19,18 +19,11 @@ echo "<tr>";   // Inicio de la 2 fila de celdas
 
 for($i = 1; $i <= 10; $i++){
     echo "<td>";
-
         for($x = 1; $x <= 10; $x++){
             echo "$i x $x = ".($i*$x)."<br/>";
         }
-
-
-
-
-
     echo "</td>";
 }
-
 
 
 echo "</tr>"; // Cierre de la fila 2 de celdas
