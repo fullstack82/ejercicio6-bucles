@@ -1,5 +1,5 @@
 <?php
-/* Mostrar una tabla de html con las tablas de multiplicar del 1 al 10;
+/*Ejercicio 6 = Mostrar una tabla de html con las tablas de multiplicar del 1 al 10;
 */
 
 echo "<table border='1'> <tr>";  // Inicio de la tabla
@@ -29,3 +29,8 @@ for($i = 1; $i <= 10; $i++){
 echo "</tr>"; // Cierre de la fila 2 de celdas
 
 echo "</table>";   // Fin de la tabla
+
+
+
+
+
